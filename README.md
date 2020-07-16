@@ -1,2 +1,2 @@
 # weather-app
-assignment 3 submission
+this app shows real time weather data for the searched location
